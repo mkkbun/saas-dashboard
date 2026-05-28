@@ -1,7 +1,25 @@
 {
   "name": "saas-dashboard",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Multi-tenant SaaS admin console with React, Express, Stripe billing, and workspace RBAC.",
+  "author": "mkkbun",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkkbun/saas-dashboard.git"
+  },
+  "homepage": "https://github.com/mkkbun/saas-dashboard#readme",
+  "keywords": [
+    "saas",
+    "dashboard",
+    "react",
+    "express",
+    "typescript",
+    "stripe",
+    "multi-tenant",
+    "portfolio"
+  ],
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
