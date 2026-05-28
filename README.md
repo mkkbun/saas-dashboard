@@ -43,7 +43,7 @@ A multi-tenant SaaS admin console built with **React 19**, **Express**, and **Vi
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saas-dashboard.git
+git clone https://github.com/mkkbun/saas-dashboard.git
 cd saas-dashboard
 npm install
 ```
